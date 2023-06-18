@@ -5,7 +5,8 @@ I'm a **Computer Science Student** from Houston, Texas. My day to day work revol
 
 ## What I have learnt. 🧠
 
-These are some of the major technologies that I use or have worked on in the past:
+These are some of the major things that I currently used or have used in the past:
+
 
 **Programming Languages**
 
