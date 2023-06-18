@@ -1,16 +1,34 @@
-### Hi there 👋
 
-<!--
-**Brandon-Huu/Brandon-Huu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Hello, I'm Brandon H <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-Here are some ideas to get you started:
+I'm a **Computer Science Student** from Houston, Texas. My day to day work revolves around studying math, trying to not lose my mind with pointless assignments and watching movie recaps. I'm always looking for new projects to collaborate on.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I have learnt. 🧠
+
+These are some of the major technologies that I use or have worked on in the past:
+
+**Programming Languages**
+
+<img title="Rust" alt="Rust" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/rust/rust.png">|<img title="Cpp" alt="Cpp" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png">|<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img alt="Typescript" title="Typescript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png">|<img title="Java" alt="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png">
+|--|--|--|--|--|--|
+
+**Libraries and Frameworks**
+
+|<img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">|<img title="Selenium" alt="Selenium" width="40px" src="https://img.icons8.com/color/48/000000/selenium-test-automation.png">|<img title="Tauri" alt="Tauri" width="40px" src="https://avatars.githubusercontent.com/u/54536011?s=200&v=4">|<img title="Svelte" alt="Svelte" width="40px" src="https://avatars.githubusercontent.com/u/23617963?s=200&v=4">
+|--|--|--|--|
+
+
+**Databases**
+
+<img title="PostgreSQL" alt="PostgreSQL" width="40px" src="https://avatars.githubusercontent.com/u/177543?s=200&v=4">|<img title="MongoDB" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png"> <br>
+|--|--|
+
+**Tools**
+
+<img title="Ubuntu" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">
+|--|--|--|
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=brandon-huu&show_icons=true&theme=radical&include_all_commits=true">
+
+<br>
