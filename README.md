@@ -30,6 +30,7 @@ These are some of the major things that I currently use or have used in the past
 |--|--|--|--|
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=brandon-huu&show_icons=true&theme=radical&include_all_commits=true">
+<img src="https://github-readme-stats.vercel.app/api?username=brandon-huu&show_icons=true&theme=radical&include_all_commits=true" style="display:inline-block;">|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brandon-Huu&layout=compact" style="display:inline-block;" />
+|--|--|
 
 <br>
