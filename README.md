@@ -1,7 +1,7 @@
 
 <h1>Hello, I'm Brandon H <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-I'm a **Computer Science Student** from Houston, Texas. My day to day work revolves around studying math, trying to not lose my mind with pointless assignments. I'm always looking for new projects to collaborate on.
+I'm a **Computer Science Student** from Houston, Texas. My day to day work revolves around ~~studying math, trying to not lose my mind with pointless assignments.~~ playing space station 14. I'm always looking for new projects to collaborate on.
 
 ## What I have learnt. 🧠
 
