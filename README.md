@@ -35,4 +35,13 @@ These are some of the major things that I currently use or have used in the past
 
 <br>
 <!--START_SECTION:waka-->
+
+```txt
+Rust    3 hrs 51 mins   █████████████████▒░░░░░░░   68.79 %
+C++     1 hr 23 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.93 %
+TOML    19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.69 %
+Git     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+```
+
 <!--END_SECTION:waka-->
