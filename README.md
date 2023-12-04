@@ -37,11 +37,11 @@ These are some of the major things that I currently use or have used in the past
 <!--START_SECTION:waka-->
 
 ```txt
-Rust    3 hrs 51 mins   █████████████████▒░░░░░░░   68.79 %
-C++     1 hr 23 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.93 %
-TOML    19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.69 %
-Git     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Rust         8 hrs 45 mins   ███████████████████▒░░░░░   77.26 %
+C++          1 hr 35 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.07 %
+Svelte       28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
+TOML         21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
+HTML         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
 ```
 
 <!--END_SECTION:waka-->
