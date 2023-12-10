@@ -34,6 +34,7 @@ These are some of the major things that I currently use or have used in the past
 |--|--|
 
 <br>
+Weekly Coding Stats
 <!--START_SECTION:waka-->
 
 ```txt
