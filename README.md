@@ -37,12 +37,17 @@ These are some of the major things that I currently use or have used in the past
 Weekly Coding Stats
 <!--START_SECTION:waka-->
 
-```txt
-Rust         8 hrs 10 mins   ███████████████████████▒░   92.98 %
-Svelte       28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 %
-HTML         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
-TOML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+```rust
+From: 01 December 2023 - To: 10 December 2023
+
+Total Time: 19 hrs 16 mins
+
+Rust         15 hrs 24 mins  >>>>>>>>>>>>>>>>>>>>-----   79.89 %
+C++          1 hr 35 mins    >>-----------------------   08.28 %
+C#           1 hr 13 mins    >>-----------------------   06.37 %
+Svelte       28 mins         >------------------------   02.49 %
+TOML         21 mins         -------------------------   01.82 %
+Other        3 mins          -------------------------   00.34 %
 ```
 
 <!--END_SECTION:waka-->
