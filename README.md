@@ -37,18 +37,18 @@ These are some of the major things that I currently use or have used in the past
 <!--START_SECTION:waka-->
 
 ```rust
-From: 01 December 2023 - To: 19 December 2023
+From: 01 December 2023 - To: 20 December 2023
 
-Total Time: 27 hrs 48 mins
+Total Time: 29 hrs 25 mins
 
-Rust         15 hrs 24 mins  >>>>>>>>>>>>>>-----------   55.40 %
-C++          9 hrs 35 mins   >>>>>>>>>----------------   34.51 %
-C#           1 hr 13 mins    >------------------------   04.42 %
-Svelte       28 mins         -------------------------   01.73 %
-TOML         21 mins         -------------------------   01.26 %
-SQL          14 mins         -------------------------   00.86 %
-Vim Script   7 mins          -------------------------   00.47 %
-Other        7 mins          -------------------------   00.43 %
+Rust         15 hrs 24 mins  >>>>>>>>>>>>>------------   52.34 %
+C++          11 hrs 13 mins  >>>>>>>>>>---------------   38.12 %
+C#           1 hr 13 mins    >------------------------   04.18 %
+Svelte       28 mins         -------------------------   01.63 %
+TOML         21 mins         -------------------------   01.19 %
+SQL          14 mins         -------------------------   00.81 %
+Vim Script   7 mins          -------------------------   00.44 %
+Other        7 mins          -------------------------   00.40 %
 ```
 
 <!--END_SECTION:waka-->
