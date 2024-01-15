@@ -37,7 +37,7 @@ These are some of the major things that I currently use or have used in the past
 <!--START_SECTION:waka-->
 
 ```rust
-From: 01 December 2023 - To: 12 January 2024
+From: 01 December 2023 - To: 13 January 2024
 
 Total Time: 46 hrs 13 mins
 
@@ -49,7 +49,7 @@ TOML         21 mins         -------------------------   00.76 %
 SQL          14 mins         -------------------------   00.52 %
 obj          9 mins          -------------------------   00.35 %
 Vim Script   7 mins          -------------------------   00.28 %
-Other        7 mins          -------------------------   00.27 %
+Other        7 mins          -------------------------   00.28 %
 ```
 
 <!--END_SECTION:waka-->
