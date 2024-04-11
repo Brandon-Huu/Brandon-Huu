@@ -1,7 +1,7 @@
 
 <h1>Hello, I'm Brandon H <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-I'm a **Computer Science Student** from Houston, Texas. 
+I'm a **Emergency Medical Services(EMS) Student** from Houston, Texas. Currently studying and training to become a Paramedic. 
 
 ## What I have learnt. 🧠
 
