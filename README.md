@@ -37,20 +37,20 @@ These are some of the major things that I currently use or have used in the past
 <!--START_SECTION:waka-->
 
 ```rust
-From: 01 December 2023 - To: 23 June 2024
+From: 01 December 2023 - To: 24 June 2024
 
-Total Time: 179 hrs 1 min
+Total Time: 179 hrs 59 mins
 
-SQL           52 hrs 10 mins  >>>>>>>------------------   29.14 %
-Rust          52 hrs          >>>>>>>------------------   29.05 %
-C#            20 hrs 57 mins  >>>----------------------   11.71 %
-C++           15 hrs 28 mins  >>-----------------------   08.64 %
-YAML          7 hrs 46 mins   >------------------------   04.34 %
-Python        6 hrs 21 mins   >------------------------   03.55 %
-TypeScript    6 hrs 17 mins   >------------------------   03.51 %
-JavaScript    3 hrs 14 mins   -------------------------   01.81 %
-XAML          3 hrs 9 mins    -------------------------   01.76 %
-Other         2 hrs 27 mins   -------------------------   01.37 %
+SQL           52 hrs 10 mins  >>>>>>>------------------   28.98 %
+Rust          52 hrs          >>>>>>>------------------   28.90 %
+C#            21 hrs 36 mins  >>>----------------------   12.01 %
+C++           15 hrs 28 mins  >>-----------------------   08.59 %
+YAML          7 hrs 55 mins   >------------------------   04.40 %
+Python        6 hrs 21 mins   >------------------------   03.53 %
+TypeScript    6 hrs 17 mins   >------------------------   03.49 %
+JavaScript    3 hrs 14 mins   -------------------------   01.80 %
+XAML          3 hrs 9 mins    -------------------------   01.75 %
+Other         2 hrs 37 mins   -------------------------   01.46 %
 ```
 
 <!--END_SECTION:waka-->
