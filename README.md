@@ -2,6 +2,7 @@
 <h1>Hello, I'm Brandon H <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 I'm a **Emergency Medical Services(EMS) Student** from Houston, Texas. Currently studying and training to become a Paramedic. 
+I love math, but I hate doing it. Talk to me about probability theory. I love that shit.
 
 ## What I have learnt. 🧠
 
