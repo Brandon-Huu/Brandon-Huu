@@ -38,9 +38,9 @@ These are some of the major things that I currently use or have used in the past
 <!--START_SECTION:waka-->
 
 ```rust
-From: 01 December 2023 - To: 12 October 2024
+From: 01 December 2023 - To: 13 October 2024
 
-Total Time: 256 hrs 13 mins
+Total Time: 256 hrs 17 mins
 
 Rust          56 hrs 13 mins  >>>>>--------------------   21.94 %
 C#            55 hrs 7 mins   >>>>>--------------------   21.51 %
