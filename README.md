@@ -38,7 +38,7 @@ These are some of the major things that I currently use or have used in the past
 <!--START_SECTION:waka-->
 
 ```rust
-From: 01 December 2023 - To: 19 November 2024
+From: 01 December 2023 - To: 20 November 2024
 
 Total Time: 266 hrs 1 min
 
