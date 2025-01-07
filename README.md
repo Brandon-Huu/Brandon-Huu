@@ -38,14 +38,14 @@ These are some of the major things that I currently use or have used in the past
 <!--START_SECTION:waka-->
 
 ```rust
-From: 01 December 2023 - To: 04 January 2025
+From: 01 December 2023 - To: 05 January 2025
 
-Total Time: 268 hrs 7 mins
+Total Time: 268 hrs 30 mins
 
-Rust          56 hrs 29 mins  >>>>>--------------------   21.07 %
-C#            55 hrs 7 mins   >>>>>--------------------   20.56 %
-SQL           52 hrs 45 mins  >>>>>--------------------   19.68 %
-Other         23 hrs 40 mins  >>-----------------------   08.83 %
+Rust          56 hrs 29 mins  >>>>>--------------------   21.04 %
+C#            55 hrs 7 mins   >>>>>--------------------   20.53 %
+SQL           52 hrs 45 mins  >>>>>--------------------   19.65 %
+Other         23 hrs 40 mins  >>-----------------------   08.82 %
 ```
 
 <!--END_SECTION:waka-->
